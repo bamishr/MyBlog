@@ -2,7 +2,7 @@
 #languageCode = "en-us"
 #title = "My New Hugo Site"
 #######################################
-baseURL = "/"
+baseURL = ""
 title = "DevOps Learning"
 author = "Badrish Mishra"
 copyright = "Copyright © 2008–2020, BadrishMishra all rights reserved."
